@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "5denerqi",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "cdaa3d53-87f8-4a79-b78e-f1bb7fa59fab",
+			"database_name": "5DEnerQi"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
